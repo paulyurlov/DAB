@@ -6,7 +6,7 @@ The task consists of 2 parts:
 1. Data research and data processing for subsequent segmentation;
 2. Create customer profiles based on the segmentation performed
 
-**Note: ** At least 2 segmentation methods must be used and compared
+**Note:** At least 2 segmentation methods must be used and compared
 
 ### HW2 
 Task requires to take part in the demand forecasting competition for new pairs of goods | shop
