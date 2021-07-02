@@ -1,4 +1,4 @@
-# Business Data Analysis SAS
+# Data Analysis in  Business SAS
 Repository for home works and project on the AMI CS HSE course Business Data Analysis SAS
 
 ### HW1
