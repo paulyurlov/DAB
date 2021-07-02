@@ -21,5 +21,11 @@ In this task, it was required to predict the demand for new products in hard che
 As initial data for prediction:
 1) Sales history for the last 35 days for all products in the category hard cheese
 2) different characteristics of goods and stores
+
+Kaggle competition link: https://www.kaggle.com/c/naf-task1-hc
 #### task 2
 In this task, it was required to predict the demand for new products in several categories (categories are unknown). The train set contained the sales history from December 19, 2016 to October 28, 2019, and the forecast horizon was 28 days from November 4, 2019 to November 25, 2019.
+
+Kaggle competition link: https://www.kaggle.com/c/naf-task-2
+
+Link to data: https://disk.yandex.ru/d/oDbOQtc3yPLNKQ
