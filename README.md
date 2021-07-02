@@ -11,6 +11,8 @@ The task consists of 2 parts:
 ### HW2 
 Task requires to take part in the demand forecasting competition for new pairs of goods | shop
 
+Kaggle competition link: https://www.kaggle.com/c/demand-forecasting-in-retail
+
 ### HW3
 Task requires to build a scoring model that estimates the probability of a client's default at the stage of a loan application.
 
