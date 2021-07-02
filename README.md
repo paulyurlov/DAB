@@ -13,3 +13,12 @@ Task requires to take part in the demand forecasting competition for new pairs o
 
 ### HW3
 Task requires to build a scoring model that estimates the probability of a client's default at the stage of a loan application.
+
+### Project
+#### task 1 
+The project proposes to predict the intensity of sales of new products in the retail network using ML methods. Sales intensity refers to the amount of demand for an item in a particular store for each day during the first 28 days of sales of that item in a store.
+As initial data for prediction:
+1) Sales history for the last 35 days for all products in the category hard cheese
+2) different characteristics of goods and stores
+#### task 2
+In this task, it was required to predict the demand for new products in several categories (categories are unknown). The train set contained the sales history from December 19, 2016 to October 28, 2019, and the forecast horizon was 28 days from November 4, 2019 to November 25, 2019.
